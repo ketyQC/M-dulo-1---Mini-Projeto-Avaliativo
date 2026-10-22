@@ -1,5 +1,5 @@
 #  Relatório final das vendas
-## Números da Qualidade dos Dados
+## Qualidade dos dados dos pedidos
 Depois de realizar a analise das 1500 linhas do arquivo, foram encontradas as seguintes informações:
 * **Categorias atualizadas:** 1482 linhas (18 estavam vazias e viraram "sem categoria").
 * **Erros de Quantidade:** 7 linhas com problemas.
