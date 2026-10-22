@@ -24,6 +24,6 @@ Depois de realizar a analise das 1500 linhas do arquivo, foram encontradas as se
 
 ### 2. Vendas por periodo
 * **Outubro de 2024:** 393 pedidos.
-* **Outubro de 2025:** 410 pedidos (O maior pico do projeto).
+* **Outubro de 2025:** 410 pedidos.
 * **Resultado:** O mês de **Outubro** concentra quase todas as vendas por causa da data do Halloween - 31 de Outubro.
 * **Porém:** Ter muitos pedidos em outubro não prova que a loja conseguiu entregar tudo dentro do prazo estipulado.
